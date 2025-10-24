@@ -97,13 +97,13 @@ Below are some representative outputs from the `/gradcam_examples/` directory:
 
 | Lesion Class | Grad-CAM Visualization |
 |:--------------|:-----------------------|
-| Melanoma (mel) | ![mel_gradcam](gradcam_examples/mel_gradcam.jpg) |
-| Basal Cell Carcinoma (bcc) | ![bcc_gradcam](gradcam_examples/bcc_gradcam.jpg) |
-| Nevus (nv) | ![nv_gradcam](gradcam_examples/nv_gradcam.jpg) |
-| Dermatofibroma (df) | ![df_gradcam](gradcam_examples/df_gradcam.jpg) |
-| Benign keratosis-like lesions (bkl) | ![bkl_gradcam](gradcam_examples/bkl_gradcam.jpg) | 
-| Actinic keratoses (akiec) | ![akiec_gradcam](gradcam_examples/akiec_gradcam.jpg) |
-| Vascular lesions (vasc) | ![vasc_gradcam](gradcam_examples/vasc_gradcam.jpg) |
+| Melanoma (mel) | ![mel_gradcam](gradcam_examples/mel_GradCam.jpg) |
+| Basal Cell Carcinoma (bcc) | ![bcc_gradcam](gradcam_examples/bcc_GradCam.jpg) |
+| Nevus (nv) | ![nv_gradcam](gradcam_examples/nv_GradCam.jpg) |
+| Dermatofibroma (df) | ![df_gradcam](gradcam_examples/df_GradCam.jpg) |
+| Benign keratosis-like lesions (bkl) | ![bkl_gradcam](gradcam_examples/bkl_GradCam.jpg) | 
+| Actinic keratoses (akiec) | ![akiec_gradcam](gradcam_examples/akiec_GradCam.jpg) |
+| Vascular lesions (vasc) | ![vasc_gradcam](gradcam_examples/vasc_GradCam.jpg) |
 🧩 The red-hot regions in these images correspond to **areas of highest model attention** — confirming the model focuses on lesion regions rather than background skin.
 
 ---
