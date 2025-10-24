@@ -1,0 +1,23 @@
+# Core Libraries
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Machine Learning / Deep Learning
+tensorflow==2.17.0
+keras==3.3.3
+scikit-learn==1.5.2
+
+# Image Processing & Augmentation
+opencv-python==4.10.0.84
+Pillow==10.4.0
+imgaug==0.4.0
+
+# Visualization & Explainability
+grad-cam==1.4.8
+plotly==5.23.0
+
+# Utility
+tqdm==4.66.4
+jupyter==1.0.0
