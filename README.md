@@ -165,5 +165,24 @@ Licensed under the **MIT License** — you may reuse or modify this work with at
 - Inspiration: Building explainable AI models for **trustworthy healthcare applications**.
 
 ---
+## How to Run
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/DhairyaSavaliya/](https://github.com/DhairyaSavaliya/speech-to-text-finetuned-whisper
+   ```
+2. Install dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+🧑‍💻 Author
+
+Dhairya Savaliya |
+B.Tech Computer Science | AI/ML Research Enthusiast
+Passionate about Deep Learning, Speech Recognition, Machine Learning and Computer Vision
+
+🌐 GitHub : https://github.com/DhairyaSavaliya
+
+📧 Email : dhairyasavaliya73@gmail.com
 
 ⭐ **If you find this project helpful, consider starring the repository!**
