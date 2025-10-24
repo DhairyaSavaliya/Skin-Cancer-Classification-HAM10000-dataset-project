@@ -129,7 +129,8 @@ Below are some representative outputs from the `/gradcam_examples/` directory:
 ## 📂 Repository Structure
 ```text
 ├── HAM10000_skin_classification.ipynb # Full training and evaluation notebook
-├── best_model.h5 # Trained hybrid CNN + DenseNet121 model
+├── best_model.h5 # Trained hybrid CNN + DenseNet121 model ( Not uploaded size issue)
+├── Grad-Cam.ipynb # Grad-CAM Code
 ├── gradcam_examples/ # Grad-CAM output images
 │ ├── mel_gradcam.jpg
 │ ├── bcc_gradcam.jpg
